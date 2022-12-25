@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with ReactJs<br>👯 I’m looking to collaborate in openSource<br>🤝 Creating for the universe<br>🌱 I’m currently learning NodeJs<br>💬 Ask me about JavaScript<br>⚡ Fun fact #contributing to openSource
+🔭 I’m currently working with ReactJs<br>👯 I’m looking to collaborate in openSource<br>🤝 Creating for the universe<br>🌱 I’m currently learning electronjs<br>💬 Ask me about JavaScript<br>⚡ Fun fact #contributing to openSource
 
 
 ## 🌐 Socials:
