@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with MERN.<br>👯 I’m looking to collaborate in JavaScript.<br>🌱 I’m currently learning TypeScript.<br>💬 Ask me about JavaScript.<br>⚡ Fun fact I'm interested in RN cross-platform development.
+🔭 I’m currently working with MERN.<br>👯 I’m looking to collaborate in JavaScript.<br>🌱 I’m currently learning TypeScript.<br>💬 Ask me about JavaScript.<br>⚡ Fun fact I work on bare metal.Linux.
 
 
 ## 🌐 Socials:
