@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with MERN.<br>👯 I’m looking to collaborate in JavaScript.<br>🌱 TypeScript.<br>💬 Lets connect on twitter.<br>⚡ Fun fact I work on bare metal.Linux.
+🔭 FullStack, MERN.<br>👯 I’m looking to collaborate in JavaScript.<br>🌱 TypeScript.<br>💬 Lets connect on twitter.<br>⚡ Fun fact I work on bare metal.Linux.
 
 
 ## 🌐 Socials:
