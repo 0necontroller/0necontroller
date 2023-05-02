@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 FullStack, MERN.<br>👯 #Open-source => JavaScript and its ecosystem .<br>🌱I'm Loving TypeScript.<br>💬 Lets connect on twitter.<br>⚡ Fun fact Still learning Rust.
+🔭 FullStack, MERN.<br>👯 JavaScript <br>🌱TypeScript.<br>💬 Lets connect on twitter.<br>⚡ Fun fact Learning Rust.
 
 
 ## 🌐 Socials:
