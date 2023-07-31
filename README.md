@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Go.<br>👯 JavaScript <br>🌱TypeScript.<br>💬 Lets connect on twitter.<br>⚡ Fun fact Learning Rust.
+🔭 Go,Rust.<br>👯 JavaScript <br>🌱TypeScript.<br>💬 Lets connect on twitter.<br>⚡ Fun fact Learning Rust.
 
 
 ## 🌐 Socials:
