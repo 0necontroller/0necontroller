@@ -1,5 +1,5 @@
 # 💫 Welcome to the MOON:
-🔭 Go,Rust.<br>👯 JavaScript <br>🌱TypeScript.<br>💬 Lets connect on twitter.<br>⚡ Fun fact Learning Rust.
+🚀 Go.<br> 🦀Rust. <br>🔢TypeScript.<br>💬 Lets connect on X.<br>⚡
 
 
 ## 🌐 Socials:
