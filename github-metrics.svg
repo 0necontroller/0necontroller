@@ -2271,7 +2271,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dokku/dokku</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A docker-powered PaaS that helps you build and manage the lifecycle of applications</div>
@@ -2324,7 +2324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kubero-dev/kubero</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes</div>
@@ -2374,7 +2374,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Feb 2025, 00:09:42 (timezone Africa/Asmara) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2025, 01:09:57 (timezone Africa/Asmara) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
